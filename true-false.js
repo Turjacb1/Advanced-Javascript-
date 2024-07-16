@@ -6,6 +6,7 @@
 //null
 //NaN
 //Truthy
+
 let name=false;
 if(name)
     console.log("it is true");
